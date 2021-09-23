@@ -3,7 +3,7 @@ import random
 
 
 def gen_num(start, end):
-	return random.randint(start, end
+	return random.randint(start, end)
 
 def check_ans(x, y):
 	if x == y:
