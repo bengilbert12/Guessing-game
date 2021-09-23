@@ -32,7 +32,7 @@ def play():
 
 		print("Generating number...")
 		still_guessing = True
-		answer = gen_num(1, 20)
+		answer = gen_num(1, 200)
 
 		while still_guessing:
 
